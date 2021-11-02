@@ -1,4 +1,4 @@
-package babychick;
+package smilyface;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -13,7 +13,7 @@ import javafx.scene.paint.Color;
 import javafx.geometry.Insets;
 
 
-public class Babychick extends Application {
+public class SmilyFace extends Application {
 
     @Override
 
